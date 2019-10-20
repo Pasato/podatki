@@ -1,0 +1,10 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "table": "^5.4.6"
+  }
+}
